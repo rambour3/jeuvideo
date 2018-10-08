@@ -1,0 +1,7 @@
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\obj\Debug\jeuvideo.csproj.CoreCompileInputs.cache
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\bin\Debug\jeuvideo.exe.config
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\bin\Debug\jeuvideo.exe
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\bin\Debug\jeuvideo.pdb
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\obj\Debug\jeuvideo.exe
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\obj\Debug\jeuvideo.pdb
+C:\Users\moi\source\repos\jeuvideo\jeuvideo\obj\Debug\jeuvideo.csprojAssemblyReference.cache
